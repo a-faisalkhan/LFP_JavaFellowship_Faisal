@@ -6,7 +6,7 @@ public class EmployeeAttendance {
 		
 		System.out.println(isPresent);
 		if (isPresent==PRESENT) {
-			System.out.println("Employee is Present");
+			System.out.println("Employee is Present ");
 		}
 			else {
 				System.out.println("Employee is Absent");
